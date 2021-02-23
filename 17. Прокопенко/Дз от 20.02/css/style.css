@@ -1,0 +1,100 @@
+.conteiner1{
+    width: 1170px;
+    height: 881px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.img2{
+    height: 370px;
+    width: 370px;
+    float: left;
+    padding: 10px;
+    border: 5px;
+}
+.golova{
+    float: left;
+    width: 1170px;
+}
+.title_left{
+    float: left;
+    font-family: Arial;
+    margin-left: 10px;
+}
+.explore_right{
+    font-family: Arial;
+    margin-right: 15px;
+    float: right;
+}
+.block_one{
+    margin-top: 30px;
+    float: left;
+    clear: left;
+}
+.block_two{
+    float: left;
+    width: 1170px;
+    height: 881px; 
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-size:1170px 881px;
+    background-image: url(../img/7.png);
+}
+.left_block{
+    margin: 350px 80px;
+}
+.color_red{
+    color: red;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.fishnet{
+    font-family: Arial;
+    font-size: 62px;
+    font-weight: 100
+}
+
+.text_p{
+    width: 470px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.button{
+    background-color: white;
+    border-radius: 30px;
+    width: 212px;
+    text-align: center;
+    height: 45px;
+    padding-top: 0.1px;
+    box-shadow: 0px 2px 5px rgba(33, 33, 33, 0.35);
+}
+.button p{
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.circle{
+    width: 550px;
+    margin: -100px 550px;
+}
+.circle1{
+    width: 25px; 
+    height: 25px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 50%;
+    float: left;
+}
+.circle2{
+    width: 35px; 
+    height: 35px;
+    background: rgba(0,0,0,1);
+    border-radius: 50%;
+    float: left;
+    margin: -6px 5px 0 5px;
+}

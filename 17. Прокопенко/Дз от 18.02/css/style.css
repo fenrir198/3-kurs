@@ -1,0 +1,92 @@
+
+.fig {
+    text-align: center;
+}
+.text1 {
+    color: coral;
+    background-color: burlywood;
+    border: 4px solid pink
+}
+.border{
+    border: 3px solid green
+}
+.heading {
+    color: darkviolet;
+    background-color: aqua;
+    border: 3px solid aquamarine
+}
+
+.vaib{
+    background-image: url(../img/23608.jpg);
+}
+
+.text2{
+    color: black;
+    background-color: cornflowerblue;
+    border: 5px solid brown;
+    font-style: italic
+}
+.saitec{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:crimson;
+}
+.text2 + h3{
+    color: cornflowerblue
+}
+.globback{
+    background-image: url(../img/c2b9c198033077.5ed306149b9c4.jpg)
+}
+
+.textoid:first-letter{
+    font-size: 30px;
+    color: brown
+}
+table{
+    border: 1px solid black;
+    width: 400px;
+    height: 100px;
+    border-spacing: 10px
+}
+td{
+    border: 1px solid red;
+    text-align: center;
+    padding-left: 20px
+}
+.menu li{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+.product{
+    width: 200px;
+    height: 150px;
+    border: 1px solid blue;
+}
+.product_1{
+    position: relative;
+    left: 150px;
+    top: 50px;
+    background-color: aquamarine;
+}
+.product_2{
+    position: relative;
+    left: 50px;
+    z-index: 1;
+    background-color: purple
+}
+.container {
+    width: 500px;
+    margin: 0 auto;
+    height: 100px
+}
+.header {
+    height: 200px;
+    background-color: aqua
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    background-color: azure
+}
